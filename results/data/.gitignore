@@ -1,2 +1,1 @@
 results/data/*.dat # ignore all .dat files
-!results/data/*.txt #keep txt files
